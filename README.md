@@ -1,4 +1,4 @@
-# infografias
+# infografías
 Infografías por Java Dominicano
 
 ¿Te gustaron las infografías del Calendario de Adviento?
